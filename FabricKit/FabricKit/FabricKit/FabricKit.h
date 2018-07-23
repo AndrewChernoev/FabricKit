@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <Fabric/Fabric.h>
+#import <Crashlytics/Crashlytics.h>
 
 //! Project version number for FabricKit.
 FOUNDATION_EXPORT double FabricKitVersionNumber;
